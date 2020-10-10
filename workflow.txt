@@ -1,0 +1,19 @@
+- Workflow And How To Start
+
+1- Creational of All Kinds Of Vehicles at One Abstract Factory
+Implement Factory Design Pattern To Control The Creational of All Vehicles Objects
+
+2- Arguments Be More Declartive
+
+3- Following TDD Principle Where make it RED >> Green >> Refactor 
+
+4- Take in Case That Vehicle Bussiness May Be Scalable and have Validation, Authorization,...
+
+5- ES5 Module import/export
+
+6- Added Mediator Design Pattern to Handle All Customer Rentals
+
+7- Added Customer Initial Values at the Constructor
+
+8- Strategy Design Pattern To Calculate Fee
+
